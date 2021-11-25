@@ -6,6 +6,6 @@
 
 body {
     margin: 48px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace !important;
     font-size: 0.5em !important;
 }
